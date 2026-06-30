@@ -1,0 +1,7 @@
+[user]
+	name = Mathieu
+	email = mathieu@neuron.build
+[credential "https://github.com"]
+	helper =
+[credential]
+	helper = store

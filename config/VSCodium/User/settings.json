@@ -1,0 +1,63 @@
+{
+  "workbench.colorTheme": "Catppuccin Frappé",
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#2d6a3f",
+    "editor.selectionHighlightBackground": "#163322"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.preferences.autoImportFileExcludePatterns": [
+    "lucide-react/dist/esm/icons/*"
+  ],
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "redhat.telemetry.enabled": false,
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "markdown-preview-enhanced.previewTheme": "atom-light.css",
+  "markdown-preview-enhanced.enablePreviewZenMode": false,
+  "continue.showInlineTip": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "claudeCode.preferredLocation": "panel",
+  "workbench.editor.empty.hint": "hidden",
+  "explorer.confirmDelete": false,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "roo-cline.debug": false,
+  "roo-cline.allowedCommands": [
+    "git log",
+    "git diff",
+    "git show"
+  ],
+  "roo-cline.deniedCommands": []
+}
