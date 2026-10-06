@@ -1,3 +1,4 @@
 alias kali='docker run -it --rm mykali /bin/bash'
 alias v3-deploy='npm run build -- --mode remote  &&  firebase deploy --only hosting:align-graph-remote --config=../firebase.remote.json'
 alias v3-staging='npm run build -- --mode remote && firebase hosting:channel:deploy staging-channel --config=../firebase.remote.json'
+alias no-cors-brave='brave --disable-web-security --user-data-dir="~./Brave-CORS-Profile" &'

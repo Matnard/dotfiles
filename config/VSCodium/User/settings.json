@@ -59,5 +59,8 @@
     "git diff",
     "git show"
   ],
-  "roo-cline.deniedCommands": []
+  "roo-cline.deniedCommands": [],
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "claudeCode.hideOnboarding": true,
+  "scm.repositories.selectionMode": "single"
 }

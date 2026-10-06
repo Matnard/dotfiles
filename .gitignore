@@ -1,0 +1,2 @@
+# GCP service account keys — never commit credentials
+config/gcloud/*.json
